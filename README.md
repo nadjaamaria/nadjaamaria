@@ -12,6 +12,5 @@ Tecnologias utilizadas:
 - CSS3
 
 # Contato
-- LinkedIn: [LinkedIn](www.linkedin.com/in/nadja-maria-simão-332336199
-).  
+- LinkedIn: [LinkedIn](http://www.linkedin.com/in/nadja-maria-sim%C3%A3o-332336199).  
 - E-mail: nadjamariasimao@gmail.com
