@@ -1,16 +1,16 @@
-## Hi there 👋
+#  Olá! Eu sou Nadja Maria
 
-<!--
-**nadjaamaria/nadjaamaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Análise e Desenvolvimento de Sistemas**  
+Em transição de carreira para a **área de tecnologia**  
 
-Here are some ideas to get you started:
+No momento, venho me dedicando ao aprendizado e aprimoramento de habilidades para atuar com desenvolvimento de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tecnologias utilizadas:
+- React  
+- JavaScript (ES6+)
+- HTML5  
+- CSS3
+
+# Contato
+- LinkedIn: [LinkedIn](www.linkedin.com/in/nadja-maria-simão-332336199).  
+- E-mail: nadjamariasimao@gmail.com
